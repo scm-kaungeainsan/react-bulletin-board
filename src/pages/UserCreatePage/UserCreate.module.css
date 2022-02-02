@@ -1,0 +1,15 @@
+.title {
+  text-align: left;
+  margin-bottom: 20px !important;
+}
+
+.createBtn {
+  border-radius: 0 !important;
+  margin-right: 20px !important;
+}
+.errText{
+  position: absolute !important;
+  margin-top: 3px !important;
+  font-size: 0.75rem !important;
+  min-height: 20px !important;
+}

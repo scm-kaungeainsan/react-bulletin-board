@@ -1,0 +1,14 @@
+.title {
+  text-align: left;
+  margin-bottom: 20px !important;
+}
+
+.checkBlock {
+  padding-left: 17px;
+}
+
+.logInBtn {
+  border-radius: 0 !important;
+  min-width: 115px !important;
+  margin-bottom: 10px !important;
+}

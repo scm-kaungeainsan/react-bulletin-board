@@ -1,0 +1,25 @@
+.appBarTitle {
+  margin-left: 30px;
+  flex-grow: 1;
+}
+
+.toolBar {
+  min-height: 53px;
+}
+
+.customBtn{
+  text-transform: none !important;
+  font-size: 1rem !important;
+}
+
+@media screen and (max-width: 375px){
+  .appBarTitle {
+    font-size: 10px !important;
+  }
+}
+
+@media screen and (max-width: 520px) and (min-width: 376px) {
+  .appBarTitle {
+    font-size: 15px !important;
+  }
+}

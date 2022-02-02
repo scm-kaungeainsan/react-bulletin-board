@@ -1,0 +1,16 @@
+.title {
+  text-align: left;
+  margin-bottom: 20px !important;
+}
+
+.label {
+  min-width: 170px !important;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.value {
+  max-width: 65% !important;
+  display: inline-block;
+  word-break: break-word;
+}
